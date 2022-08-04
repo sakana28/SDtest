@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="SD_Loopback" location="/home/benchmarker/vivado_bsp/INT_test_sw_new/AVNETSW/SD_Loopback" platform="/home/benchmarker/vivado_bsp/INT_test_sw_new/AVNETSW/SD_PL/export/SD_PL/SD_PL.xpfm" platformUID="xilinx:zedboard::0.0(custom)" systemProject="SD_Loopback_system" sysConfig="SD_PL" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="896ae8a4abe4b4ec79510c98d108a6c6">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.502101412">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1579181375" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
