@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ilatest" location="/home/benchmarker/vivado_bsp/INT_test_sw_new/AVNETSW/ilatest" platform="/home/benchmarker/vivado_bsp/INT_test_sw_new/AVNETSW/AVNET_DEMO_IIC_CONFIG/export/AVNET_DEMO_IIC_CONFIG/AVNET_DEMO_IIC_CONFIG.xpfm" platformUID="xilinx:zedboard::0.0(custom)" systemProject="ilatest_system" sysConfig="AVNET_DEMO_IIC_CONFIG" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="b8f2c8b9b1ee160dc962ca8bd4402f31">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.443883759">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.409836932" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
